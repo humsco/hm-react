@@ -1,1 +1,1 @@
-# hm-react
+Assets to a hangman challenge
